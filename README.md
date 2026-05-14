@@ -157,3 +157,5 @@ pytest tests/ -v
 - **FastAPI** — async REST, handles concurrent bid requests
 - **Pydantic v2** — OpenRTB model validation
 - Python 3.12+
+
+<!-- Last updated: 2026-05-14 -->
