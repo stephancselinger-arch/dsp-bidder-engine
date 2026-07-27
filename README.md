@@ -231,3 +231,5 @@ pytest tests/ -v
 <!-- Last updated: 2026-07-23 -->
 
 <!-- Last updated: 2026-07-25 -->
+
+<!-- Last updated: 2026-07-27 -->
